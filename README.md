@@ -46,4 +46,4 @@ In addition to my technical expertise, I’m passionate about learning new techn
 
 ---
 
-*This project is developed by [K. Yuva Shankar](https://www.linkedin.com/in/yuva-shankar-4ba786228).*
+
