@@ -1,65 +1,49 @@
-Here’s a personalized GitHub README file tailored to your profile:
+### Hi there, I'm [K. Yuva Shankar](https://www.linkedin.com/in/yuva-shankar-4ba786228) 👋
 
----
+I’m a tech enthusiast with a strong background in web development, cloud architecture, and machine learning. I’m currently in my final year of studies and have gained extensive experience in full-stack development, cloud services (especially AWS), and data science through various internships and projects. 
 
-### Hi there, I'm [Yuva Shankar](https://www.linkedin.com/in/yuva-shankar-4ba786228/) 👋
+In addition to my technical expertise, I’m passionate about learning new technologies and collaborating on innovative projects.
 
-I'm a passionate tech enthusiast ⚡ with a strong foundation in **AWS**, **Python**, **Full-stack Development**, and **Data Science**. I love building solutions that solve real-world problems through the power of technology.
+### My Interests:
+- Cloud Computing (AWS)
+- Machine Learning & AI
+- Full-Stack Development
+- Data Visualization
+- Traffic Flow Prediction
 
-**Currently:**  
-🚀 Final-year student working on diverse projects spanning serverless architecture, machine learning, and web development.
+### Current Projects:
+- **Traffic Flow Prediction:** Using Random Forest to analyze and predict urban traffic patterns using historical data.
+- **AWS Inventory Management System:** A serverless inventory management solution leveraging S3, Lambda, DynamoDB, and SNS for real-time data handling.
+- **Movie Seat Booking App:** A frontend project built with HTML, CSS, and JavaScript for booking movie seats.
 
-**What I do:**  
-- Build **cloud-native applications** using AWS (Lambda, DynamoDB, S3, SNS, and more)
-- Develop **data-driven solutions** using Python, Power BI, and machine learning techniques  
-- Specialize in **front-end and full-stack development** with technologies like HTML, CSS, JavaScript, and Django
-- Craft AI-driven systems, like my **Traffic Flow Prediction Project** leveraging random forest classifiers to predict traffic flow based on vehicle data
+### Skills:
 
----
-
-## Skills:
-
-#### Languages:
-
+#### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Cloud & Tools:
-
+#### Cloud Services:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)&nbsp;
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)&nbsp;
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
-#### Databases:
+#### Tools & Technologies:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+### Connect with me:
 
-#### Web Development:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-shankar-4ba786228)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvaShankar)&nbsp;
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-
----
-
-## Connect with me:
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/yuva-shankar-4ba786228)
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/yuvashankar)
-
----
-
-## GitHub Stats:
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvashankar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yuva Shankar's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvashankar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=YuvaShankar&show_icons=true&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvaShankar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yuva's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaShankar&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaShankar&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
 
-✨ *This profile README was created with love by Yuva Shankar!*
-
+*This project is developed by [K. Yuva Shankar](https://www.linkedin.com/in/yuva-shankar-4ba786228).*
