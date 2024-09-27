@@ -38,7 +38,7 @@ In addition to my technical expertise, I’m passionate about learning new techn
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-shankar-4ba786228)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvaShankar)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvaxo)&nbsp;
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvaxo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Yuva's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaxo&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
