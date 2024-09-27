@@ -9,7 +9,6 @@ In addition to my technical expertise, I’m passionate about learning new techn
 - Machine Learning & AI
 - Full-Stack Development
 - Data Visualization
-- Traffic Flow Prediction
 
 ### Current Projects:
 - **Traffic Flow Prediction:** Using Random Forest to analyze and predict urban traffic patterns using historical data.
