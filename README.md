@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I am passionate about leveraging technology to sol
 
 ### Let's Connect! 
 - 📫 [LinkedIn](https://www.linkedin.com/in/yuva-shankar-4ba786228)  
-- 🌐 [Portfolio Website] (If you have one)
+
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate!
