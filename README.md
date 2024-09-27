@@ -9,7 +9,6 @@ In addition to my technical expertise, I’m passionate about learning new techn
 - Machine Learning & AI
 - Full-Stack Development
 - Data Visualization
-- Traffic Flow Prediction
 
 ### Current Projects:
 - **Traffic Flow Prediction:** Using Random Forest to analyze and predict urban traffic patterns using historical data.
@@ -41,8 +40,7 @@ In addition to my technical expertise, I’m passionate about learning new techn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuva-shankar-4ba786228)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuvaShankar)&nbsp;
 
-## GitHub Stats:
-
-| <a href="https://github.com/yuvashankar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvashankar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yuva Shankar's GitHub stats" /></a> | <a href="https://github.com/yuvashankar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvashankar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=YuvaShankar&show_icons=true&theme=radical"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvaShankar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yuva's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaShankar&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaShankar&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+---
